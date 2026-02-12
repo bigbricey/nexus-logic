@@ -36,9 +36,9 @@ export default function Home() {
             Stop letting your AI guess. Give your agents direct access to the world's most critical data with our premium suite of 5 high-performance MCP servers.
           </p>
           <div className="flex flex-col md:flex-row items-center justify-center space-y-4 md:space-y-0 md:space-x-6">
-            <Link href="#pricing" className="btn-primary px-10 py-4 text-lg w-full md:w-auto">
+            <a href="https://theokoles-ai.lemonsqueezy.com/checkout/buy/2603860d-bd5f-4188-afbe-a2c7df01d5cb" className="btn-primary px-10 py-4 text-lg w-full md:w-auto">
               Unlock the Bundle — $99
-            </Link>
+            </a>
             <Link href="#servers" className="glass px-10 py-4 text-lg font-bold rounded-full hover:bg-white/5 transition-all w-full md:w-auto">
               Explore Servers
             </Link>
@@ -129,9 +129,9 @@ export default function Home() {
             </div>
             <p className="text-white/40 text-sm mt-4 italic">Next 50 licenses only. 84% claimed.</p>
           </div>
-          <button className="btn-primary px-12 py-5 text-xl font-bold w-full md:w-auto shadow-[0_0_50px_rgba(56,189,248,0.3)]">
+          <a href="https://theokoles-ai.lemonsqueezy.com/checkout/buy/2603860d-bd5f-4188-afbe-a2c7df01d5cb" className="btn-primary px-12 py-5 text-xl font-bold w-full md:w-auto shadow-[0_0_50px_rgba(56,189,248,0.3)] inline-block">
             Go to Secure Checkout
-          </button>
+          </a>
           <div className="mt-8 flex items-center justify-center space-x-6 text-white/40 grayscale opacity-50">
             <span className="text-xs font-medium">SECURE PAYMENTS BY</span>
             <div className="text-sm font-bold opacity-100 grayscale-0 text-white/60">LemonSqueezy</div>
