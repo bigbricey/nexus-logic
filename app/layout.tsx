@@ -5,7 +5,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Nexus Logic | Premium MCP Server Bundle",
+  title: "Theokoles AI | Premium MCP Server Bundle",
   description: "Give your AI agents super-intelligence with our curated bundle of 5 high-performance MCP servers. SEC insights, Scientific research, Lead generation, and more.",
 };
 

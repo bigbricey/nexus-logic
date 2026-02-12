@@ -143,7 +143,7 @@ export default function Home() {
       {/* Footer */}
       <footer className="py-20 px-6 border-t border-white/5">
         <div className="max-w-7xl mx-auto flex flex-col md:flex-row items-center justify-between text-white/40 text-sm">
-          <div>© 2026 Theokoles AI. Built by Antigravity Agency.</div>
+          <div>© 2026 Nexus Logic. Built by Antigravity Agency.</div>
           <div className="flex space-x-8 mt-6 md:mt-0">
             <Link href="#" className="hover:text-white transition-colors">Documentation</Link>
             <Link href="#" className="hover:text-white transition-colors">Privacy Policy</Link>
